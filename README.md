@@ -1,2 +1,3 @@
 # IntangibleCulturalHeritage
 基于JavaWeb开发的小网页，使用tomcat服务器
+需要自己创建数据库
