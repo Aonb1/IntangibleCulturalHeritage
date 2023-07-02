@@ -1,2 +1,2 @@
 # IntangibleCulturalHeritage
-基于JavaWeb开发的小网页
+基于JavaWeb开发的小网页，使用tomcat服务器
