@@ -4,4 +4,4 @@
 采用前端div，bootstrp开发
 后端为采用数据库可视化工具nactive+springboot的java框架
 Mysql版本为8.0系列
-
+sql文件暂未发布到GitHub，待项目结项后发布
